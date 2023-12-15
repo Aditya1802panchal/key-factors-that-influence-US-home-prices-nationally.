@@ -12,12 +12,13 @@ The following variables are chosen for the study-
 * Construction Price
 As a proxy to the home prices, S&P CASE-SHILLER Index is used
 Majority of data was download from [https://fred.stlouisfed.org/]
+
 Urban :Population is downloaded from [https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2021&locations=US&start=2001]
 
 Other key factors can be
 
-Immigration Rate.
-Marriage rate
-Average House Size
-Land Availability
-Tax Rate
+* Immigration Rate.
+* Marriage rate
+* Average House Size
+* Land Availability
+* Tax Rate
